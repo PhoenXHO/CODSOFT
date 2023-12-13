@@ -384,7 +384,7 @@ namespace NumberGuessingGame {
 			else
 			{
 				// Show error message
-				message->Text = "Invalid guess. Try again.";
+				MessageBox::Show("Invalid guess. Try again.", "Invalid Guess", MessageBoxButtons::OK);
 				return;
 			}
 
