@@ -9,3 +9,5 @@ Each task is organized into its own directory, labeled numerically with a title 
 Feel free to explore the code and documentation for each task:
 
 - [Task1: Number Guessing Game](Task1%20-%20Number%20Guessing%20Game)
+- [Task2: Simple Calculator](Task2%20-%20Simple%20Calculator)
+- 
