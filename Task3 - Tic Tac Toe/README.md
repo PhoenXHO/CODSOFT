@@ -1,4 +1,4 @@
-# Task - Tic Tac Toe Game
+# Task 3 - Tic Tac Toe Game
 This folder contains the source code for a simple Tic Tac Toe game written in C++.
 
 ## About
