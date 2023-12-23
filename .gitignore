@@ -101,3 +101,6 @@ orleans.codegen.cs
 # Executables
 *.out
 *.app
+
+# VS Code
+.vscode/
