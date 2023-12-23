@@ -10,4 +10,4 @@ Feel free to explore the code and documentation for each task:
 
 - [Task1: Number Guessing Game](Task1%20-%20Number%20Guessing%20Game)
 - [Task2: Simple Calculator](Task2%20-%20Simple%20Calculator)
-- 
+- [Task3: Tic Tac Toe](Task3%20-%20Tic%20Tac%20Toe)
